@@ -3,9 +3,9 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "Project2",
-        "width": 1920,
-        "height": 1080,
+        "title": "Nihongo O Manabu",
+        "width": 1366,
+        "height": 768,
         "position": "center",
         "icon": "icon/icon.png"
     }
